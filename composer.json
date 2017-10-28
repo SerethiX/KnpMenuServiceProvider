@@ -1,5 +1,5 @@
 {
-    "name": "knplabs/knp-menu-silex",
+    "name": "serethix/knp-menu-silex",
     "type": "library",
     "description": "Integration of knplabs/knp-menu into Silex",
     "keywords": ["menu", "tree", "silex"],
